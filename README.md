@@ -5,7 +5,7 @@
 ##### 摘要:學習區塊鏈之應用
 
 
-`big zone`
+`bigest zone`
 
 ```
 text
@@ -18,14 +18,15 @@ text
 
 [![docker](https://img.youtube.com/vi/sSm2dRarhPo/0.jpg)](https://www.youtube.com/watch?v=sSm2dRarhPo "Testing Docker")
 
-- [ ] todo list
-- [X] done
+- [ ] yes
+- [ ] maybe
+- [X] no
 
 ```javascript
-function myfunction(p1,p2) {
-   return p1 * p2 //The function the product of p1 and p2
-}
+function post() {
+			Post.action = "NextPage.aspx";
+			Post.submit();
+		} 
 ```
 :heart:
-:sweat_drops:
 :lips:
