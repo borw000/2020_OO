@@ -14,7 +14,7 @@ text
 
 ![NKUST](nkust.png)高第一
 
-[![Everything Is AWESOME](123.jpg)](https://www.youtube.com/watch?v=YkLyTXJYwgI&ab_channel=EHPMusicChannel "音樂 ")
+[![Everything Is AWESOME](thumbnail_640X480.jpg)](https://www.youtube.com/watch?v=YkLyTXJYwgI&ab_channel=EHPMusicChannel "音樂 ")
 
 [![docker](https://img.youtube.com/vi/sSm2dRarhPo/0.jpg)](https://www.youtube.com/watch?v=sSm2dRarhPo "Testing Docker")
 
